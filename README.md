@@ -33,8 +33,8 @@ Follow these steps to run the project locally.
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Beyonder016/reactjs-todolist-main.git
+cd reactjs-todolist-main
 ```
 
 ### 2️⃣ Install dependencies
